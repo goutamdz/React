@@ -1,0 +1,28 @@
+{
+    "jobs":[
+        {
+            "id":1,
+            "title":"Mango is good",
+            "salary":5000,
+            "location":"London, UK"
+        },
+        {
+            "id":2,
+            "title":"Banana is good",
+            "salary":6000,
+            "location":"Amsterdam, Germany"
+        },
+        {
+            "id":3,
+            "title":"Apple is good",
+            "salary":7000,
+            "location":"New-York, USA"
+        },
+        {
+            "id":4,
+            "title":"Pineapple is good",
+            "salary":8000,
+            "location":"Kolkata, India"
+        }
+    ]
+}
